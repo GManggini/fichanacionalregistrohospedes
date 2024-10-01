@@ -1,8 +1,8 @@
 <?php
-$servername = "hotelvivavida.com.br:3306";
-$username = "vivavida_userhospeda";
-$password = "viva@vida#123";
-$dbname = "vivavida_hospeda";
+$servername = "server";
+$username = "username";
+$password = "password";
+$dbname = "dbname";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
